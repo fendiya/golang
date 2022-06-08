@@ -1,0 +1,71 @@
+1. Go Fundamental
+  https://kampusmerdeka.kemdikbud.go.id/program/studi-independen/browse/50753d41-eeea-4008-b9d1-b1b09bfbc395/bf3b4c83-a752-11eb-bfd6-76b6c9eac6d7
+  https://www.golangbootcamp.com/book
+  Chapter 1: Intro
+  Chapter 2: The Basics
+  Chapter 3: Types
+  Chapter 4: Collection Types
+  Chapter 5: Control flow
+  Chapter 6: Methods
+  Chapter 7: Interfaces
+  Chapter 8: Concurrency
+  Chapter 9: Get Setup
+  Chapter 10: Get Your Feet Wet
+  Chapter 11: Tips and Tricks
+  Chapter 12: Exercises
+  https://gobyexample.com/hello-world
+
+  Go Project Folder Structure : https://dev.to/gopher/project-management-strategy-in-golang-1c55
+  GO video https://www.freecodecamp.org/news/go-golang-course/
+
+2. Go Testing
+  GO TDD https://github.com/quii/learn-go-with-tests
+
+3. Go in Production
+  https://eminetto.medium.com/clean-architecture-using-golang-b63587aa5e3f
+  https://peter.bourgon.org/go-in-production/
+  https://jondot.medium.com/3-years-of-go-in-production-62f473797ca0
+  https://www.linkedin.com/pulse/run-golang-production-radhouen-assakra
+  https://www.codementor.io/@tamizhvendan/using-golang-in-production-my-experiences-7ol9t1u6s
+
+4. Go Logging and Monitoring or telemetry
+  https://www.datadoghq.com/blog/go-logging/
+  https://www.loggly.com/use-cases/logging-in-golang-how-to-start/
+  https://www.papertrail.com/solution/golang-logging/
+  
+
+5. Go Scalability
+  https://betterprogramming.pub/how-i-build-robust-scalable-go-applications-192a0df32d1
+  https://faun.pub/how-novices-build-a-highly-scalable-system-in-go-a2f16052f3da
+
+6. Go High Availability
+  https://golang.ch/a-scalable-distributed-high-performance-high-availability-time-series-database-written-in-golang/
+  https://www.filecloud.com/blog/an-introduction-to-high-availability-architecture/
+  https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2
+
+7. Go Governance
+  https://itnext.io/beautify-your-golang-project-f795b4b453aa
+  https://www.freecodecamp.org/news/an-intro-to-dep-how-to-manage-your-golang-project-dependencies-7b07d84e7ba5/
+  https://github.com/golang-standards/project-layout
+
+8. Go as Microservices
+  https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang
+  https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker
+
+9. Go integration with Jenkins
+  https://levelup.gitconnected.com/automating-build-and-test-of-go-application-with-jenkins-9f96879b5479
+  https://mattermost.com/blog/how-to-set-up-a-jenkins-ci-cd-pipeline-for-your-golang-app/
+  https://www.vogella.com/tutorials/Jenkins/article.html
+  https://www.lambdatest.com/blog/how-to-setup-continuous-integration-with-git-jenkins/
+
+10. Go security
+  https://dasarpemrogramangolang.novalagung.com/C-secure-middleware.html
+  https://blog.sqreen.com/top-6-security-best-practices-for-go/
+  https://snyk.io/blog/go-security-cheatsheet-for-go-developers/
+  https://www.contrastsecurity.com/security-influencers/secure-coding-with-go
+
+
+Reference : 
+Books : 
+  Essential GO
+  The Little Go Book
